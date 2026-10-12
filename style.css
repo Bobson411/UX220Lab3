@@ -1,0 +1,38 @@
+CSS
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header, footer {
+    background-color: #4b215b;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+main h2 {
+    background-color: #e5d1f2;
+    color: #51236b;
+    padding: 10px;
+}
+
+main p {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 15px;
+    line-height: 1.6;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+
